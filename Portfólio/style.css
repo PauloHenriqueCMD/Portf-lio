@@ -1,18 +1,28 @@
-
-  h2 {background-color:blue;
+h2 {background-color:gray;
+    font-family: sans-serif;
+    font-size: 1.6;
+    line-height: 1;
+    border-radius:8px ; 
    }  
+  
+ header{ 
+   text-align:center;
+   padding: 30px 20px;
+   border-radius: 8px;
+   box-shadow: 0 4px 12px
+   }
+  
+ body {
+   
+   font-family: 'segoe UI' , tahoma, Geneva, Verdana, sans-serif;
+   background-color:white;
+   color:black;
+   line-height: 1.0;
+   padding: 20px;
+   justify-content:center;  
+   display:inline; 
+   }
+   
    
 
-
    
-  
-body {
-    
-    font-family: 'segoe UI' , tahoma, Geneva, Verdana, sans-serif;
-    background-color:white;
-    color:black;
-    line-height: 1.6;
-    padding: 20px;
-}
-
-  
