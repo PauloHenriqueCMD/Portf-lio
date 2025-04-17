@@ -3,14 +3,17 @@ h2 {background-color:gray;
     font-size: 1.6;
     line-height: 1;
     border-radius:8px ; 
-   }  
+    text-align: center;
+    justify-content: center; 
+  }  
   
  header{ 
    text-align:center;
-   padding: 30px 20px;
+   padding: 30px 5px;
    border-radius: 8px;
-   box-shadow: 0 4px 12px
-   }
+   box-shadow: 0 4px 5px;
+   justify-content: center;
+  }
   
  body {
    
@@ -21,7 +24,10 @@ h2 {background-color:gray;
    padding: 20px;
    justify-content:center;  
    display:inline; 
-   }
+    
+   display: block;
+   
+  }
    
    
 
